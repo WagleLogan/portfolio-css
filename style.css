@@ -91,11 +91,11 @@ header {
 #darkMode {
   display: none;
 }
-.navigatioin {
+.navigation {
   list-style: none;
 }
 
-.navigatioin li a:hover {
+.navigation li a:hover {
   color: var(--color-orange);
   transition: all 0.5s;
 }
